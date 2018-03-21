@@ -1,0 +1,8 @@
+106.15.192.168
+root/#][poI369
+
+果海db jup_zr
+安装方法：http://blog.csdn.net/yangcs2009/article/details/51261193
+使用方法：su mysql ->  mysql -uroot -p
+
+阿里云ECS U/P:366036326@qq.com juping07260605/.
